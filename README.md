@@ -1,5 +1,5 @@
 # E_Consumtion
-Implementation a neural network-based prediction algorithm for accurately forecasting hourly energy consumption.
+- Implementation a neural network-based prediction algorithm for accurately forecasting hourly energy consumption.
 Performed data preprocessing and cleaning on 12 Time-Series datasets.
 Conducted standard statistical analysis to describe and interpret the datasets.
 Utilized data visualization functions in Python to make clear and concise visual representations of datasets.
